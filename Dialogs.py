@@ -1,0 +1,16 @@
+dev_note= [
+"This is a example to show how this is supposed to works"]
+
+story = [
+    "In the picturesque village nestled between rolling hills and babbling brooks, a community thrived, and among its denizens was a young and inquisitive girl named Alice who, fueled by an insatiable curiosity, spent her days exploring every nook and cranny of the surrounding landscape.",
+    "Venturing beyond the familiar, Alice stumbled upon an ancient and mysterious portal hidden deep within the heart of the dense, emerald-green woods that bordered the village, and its soft, pulsating glow beckoned her with an irresistible allure.",
+    "Unable to resist the enchantment of the shimmering gateway, Alice took a bold step into the unknown, finding herself transported to a fantastical realm where the air itself hummed with magic and the colors of the landscape danced in hues unseen in her mundane world.",
+    "As she traversed this extraordinary land, Alice encountered a host of whimsical creatures — talking rabbits, singing birds, and mischievous sprites — all of whom welcomed her with open arms, recognizing her as the prophesied visitor destined to bring about a change in their world.",
+    "In the heart of this enchanted realm, Alice forged an unlikely yet deep bond with an elderly owl named Oliver, whose vast wisdom and gentle guidance became invaluable companions on her quest to understand the forces that threatened to cast the realm into an eternal darkness.",
+    "Their journey together unfolded like an epic odyssey, weaving through mystical forests, crossing bubbling brooks on ancient stone bridges, and climbing towering mountains where the winds whispered secrets of the cosmos.",
+    "Amidst the challenges and trials, Alice discovered not only the latent magic within herself but also the profound interconnectedness of all living things in this extraordinary land, fostering friendships that transcended species and transcended the boundaries of the ordinary.",
+    "With a resolute heart, bolstered by newfound allies and the wisdom imparted by Oliver, Alice faced the encroaching darkness that sought to envelop the realm, mustering a courage that resonated not just within her but reverberated through the very fabric of the fantastical world she now called home.",
+    "As the climactic battle unfolded, the once-unassuming girl from the village emerged as a beacon of hope, rallying the diverse denizens of the realm in a united front against the malevolent forces threatening to snuff out the vibrant existence they held dear.",
+    "In the triumphant aftermath, with the darkness dispelled and the realm bathed in the warm hues of a dawn that felt like a promise fulfilled, Alice bid farewell to her magical friends, carrying within her a heart brimming with memories, lessons, and the indelible mark of a hero who had not only saved a fantastical land but also grown immeasurably in the process.",
+    "Returning to her quaint village, Alice became a living legend, a storyteller weaving tales of the extraordinary and the magical for generations to come, inspiring countless others to embrace the enchanting possibilities that awaited just beyond the boundaries of the ordinary."
+]
